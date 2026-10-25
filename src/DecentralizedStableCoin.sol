@@ -31,7 +31,7 @@ import {ERC20} from "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 /**
  * @title DecentralizedStableCoin
- * @author JNHFlow21
+ * @author risingjerry
  * @notice This contract is the ERC20 implementation of the DecentralizedStableCoin
  * @dev This implements a stablecoin with the properties:
  * - 实现 ERC20Burnable 接口

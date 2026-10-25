@@ -33,7 +33,7 @@
 
 ### 1) 克隆仓库
 ```bash
-git clone https://github.com/JNHFlow21/DeFi-DecentralizedStableCoin.git
+git clone https://github.com/risingjerry/DeFi-DecentralizedStableCoin.git
 cd DeFi-DecentralizedStableCoin
 ```
 
